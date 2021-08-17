@@ -9,7 +9,8 @@
 - 📫 How to reach me, send me a message: wandersonlontra@yahoo.com.br
 
 # 🔥🚀 Growing Up
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonlontra&layout=compact)](https://github.com/wandersonlontra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wandersonlontra&layout=compact&theme=radical&hide_border=true)](https://github.com/wandersonlontra/github-readme-stats)
 
 <!---
 WandersonLontra/WandersonLontra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
